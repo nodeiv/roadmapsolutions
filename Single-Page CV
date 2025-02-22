@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--TERMS FOR REFERENCE 
+    SEMANTIC HTML - STRUCTURE SV PAGE
+    SEO META TAGS - ESSENTIAL FOR SEO
+    OG TAGS: SOCIAL MEDIA SHARING
+    FAVICON: idk lol -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SEO META TAGS // Reference was used from AKINGHILL solution.-->
+    <meta name="description" content="NODEIV CV PROJECT" />
+    <meta name="keywords" content="HTML, front end, CSS, JS, JavaScript, Resume, Web Dev, Web Development" />
+    <meta name="author" content="NODEIV" />
+    <!--Open Graph Meta Tags-->
+    <meta property="og:title" content="NODEIV - Frontend Developer" />
+    <meta property="og:description" content="CV page for road maps" />
+    <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjsEbANe5IsF1cwu-mDmOdRm_ZpBHeasSDQ&s" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://youtube.com" />
+
+    <title>Document</title>
+</head>
+    <body>
+       
+        <h1>NodeIV</h1>
+        <section class="Information">
+            <h4 class="section-title">Novice Frontend Developer</h4>
+            <p>
+                123 Your Street <br>
+                Your City, ST 12345 <br>
+                (123) 456-7890 <br>
+                no_reply@example.com
+            <p>
+            </section>      
+        <main>
+            <section class="Skills">
+                <h4 class="section-title"> Skills</h4>
+                <p>HTML</p>
+            </section>
+
+            <section class="Education">
+                <h4 class="section-title"> Education</h4>
+                <h3>School Name, Location - Degree </h3>
+                <p>Month 20xx to Month 20xx to Month 20xx <br>
+                List of exciting things you did at university
+                </p>
+            </section>
+
+            <section class="Experience">
+                <h4>Experience</h4>
+                    <h3> Company Name, Location - Job Title </h3>
+                        <p>Month 20xx to Month 20xx
+                            <ul>
+                                <li>List of achievements</li>
+                                <li>List of achievements</li>
+                                <li>List of achievements</li>
+                            </ul>
+                            Skills: List of skills used or gained at this company
+                        </p>
+                <!--2 different sections-->
+                    <h3> Company Name, Location - Job Title </h3>
+                        <p>Month 20xx to Month 20xx
+                            <ul>
+                                <li>List of achievements</li>
+                                <li>List of achievements</li>
+                                <li>List of achievements</li>
+                            </ul>
+                            Skills: List of skills used or gained at this company
+                        </p>
+            </section>
+
+            <section class="Internet Footer">
+                <h4>Across the Internet</h4>
+                    <a href="https://github.com/nodeiv"> NodeIV GitHub</a>
+        </section>
+        </main>
+    </body>
+</html>
