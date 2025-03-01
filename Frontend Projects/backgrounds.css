@@ -1,0 +1,48 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(47, 48, 63);
+    max-width: 900px
+}
+.header{
+
+    position: relative; 
+    text-align: center;
+    border-style: solid;
+    padding: 70px;
+}
+
+.nav{
+    text-align: right; 
+}
+.nav ul a{
+    position: relative; bottom: 295px; right: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: 2s ease;
+}
+.nav ul a:hover{
+    color: blue;
+}
+
+.yourname{
+    font-size: 20px;
+    position: relative; bottom: 250px; left: 20px
+}
+.projects{
+    position: relative; bottom: 83px;
+    padding: 10px;
+    border-top: solid;
+}
+
+.experience{
+    position: relative; bottom: 265px; left: 300px;
+    font-size: 15px;
+}
+.education{
+position: relative; bottom: 533px; left: 700px;
+}
+.footer{
+    position: relative; bottom: 300px; left: 300px;
+}
