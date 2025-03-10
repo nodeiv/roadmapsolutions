@@ -1,0 +1,60 @@
+*{
+    display: grid;
+    margin: auto;
+    width: 50%;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.title{
+    position: relative;
+    top: 9em;
+    right: 50%;
+    font-size: 2em;
+
+}
+
+.title p{
+    position: relative;
+    padding: 1em;
+    top: 1em;
+    left: 3em;
+    font-size: .6em;
+    color: rgb(175, 174, 174);
+}
+
+.container2{
+    position: relative;
+    top: 20%;
+    right: 35%;
+}
+.circle{
+    position: relative;
+    height: 1.2em;
+    width: 1.2em;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    top: 25em;
+    left: 19.9%;
+}
+
+.line{
+    position: relative;
+    height: 30em;
+    width: 0.2em;
+    background-color: rgb(0, 0, 0);
+    top: 20em;
+    left: 20%;
+}
+.button{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 30em;
+    left: 10%;
+    width: 20em;
+    height: 2em;
+    
+}
